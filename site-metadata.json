@@ -36,7 +36,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/logo-chloe.png"
     },
     "footer": {
         "content": "&copy; Stackbit-Exto. All rights reserved.",
