@@ -36,8 +36,7 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ],
-        "logo_img": "images/kind-tiger.png"
+        ]
     },
     "footer": {
         "content": "&copy; Stackbit-Exto. All rights reserved.",
