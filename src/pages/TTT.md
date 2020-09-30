@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2020-09-30'
 excerpt: lorem-ipsum
 template: post
-thumb_image: images/1.jpg
+thumb_image: images/1_thumb.jpg
 image: images/12.jpg
 ---
 ## Lorem ipsum
