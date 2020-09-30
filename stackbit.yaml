@@ -306,6 +306,47 @@ models:
         name: image
         label: Alternative Featured Image
         description: The image shown in the single project.
+        - type: image
+        name: thumb_image
+        label: Featured Image
+        description: The image shown in the project page.
+      - type: image
+        name: image
+        label: Alternative Featured Image
+        description: The image shown in the single project.
+        - type: image
+        name: thumb_image
+        label: Featured Image
+        description: The image shown in the project page.
+      - type: image
+        name: image
+        label: Alternative Featured Image
+        description: The image shown in the single project.
+        - type: image
+        name: thumb_image
+        label: Featured Image
+        description: The image shown in the project page.
+      - type: image
+        name: image
+        label: Alternative Featured Image
+        description: The image shown in the single project.
+        - type: image
+        name: thumb_image
+        label: Featured Image
+        description: The image shown in the project page.
+      - type: image
+        name: image
+        label: Alternative Featured Image
+        description: The image shown in the single project.
+        - type: image
+        name: thumb_image
+        label: Featured Image
+        description: The image shown in the project page.
+      - type: image
+        name: image
+        label: Alternative Featured Image
+        description: The image shown in the single project.
+        
   section:
     type: object
     label: Section
